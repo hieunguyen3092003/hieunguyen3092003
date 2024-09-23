@@ -8,6 +8,7 @@ Please feel free to contact me via [ LinkedIn ](www.linkedin.com/in/hieunguyen30
 
 Until then, I'd like to share my interests. I have a deep appreciation for music, cinema, and literature, finding immense joy and inspiration in these exquisite art forms that enrich the human experience. Here are three of my personal favorites:
 
+| - | - | - | - | - | - | - |
 |`T`|`H`|`R`|`O`|`N`|`E`|`S`|
 |`A`|   |   |`F`|   |`M`|`R`|
 |`Y`|   |`R`|   |   |`A`|`A`|
