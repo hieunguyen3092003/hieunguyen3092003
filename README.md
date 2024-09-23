@@ -4,9 +4,9 @@
 
 My name is Hieu, and I am a university student currently pursuing a degree in Computer Engineering at [Bach Khoa University](https://hcmut.edu.vn). I specialize in hardware engineering, focusing on embedded systems and Internet of Things (IoT) technologies. Over the past year, I have gained valuable experience as a Hardware Engineer, honing my skills in designing and implementing cutting-edge hardware solutions.
 
-Please feel free to contact me via [ LinkedIn ](www.linkedin.com/in/hieunguyen3092003).
+Please feel free to contact me via [ LinkedIn ](https://www.linkedin.com/in/hieunguyen3092003/).
 
-Until then, I'd like to share my interests. I have a deep appreciation for music, cinema, and literature, finding immense joy and inspiration in these exquisite art forms that enrich the human experience. Here are three of my personal favorites:
+Until then, I'd like to share my interests. I have a deep appreciation for music 🎧, cinema 🎞, and literature 📖, finding immense joy and inspiration in these exquisite art forms that enrich the human experience. Here are three of my personal favorites:
 
 |M  |y  |   |f  |a  |v  |s  |
 | - | - | - | - | - | - | - |
